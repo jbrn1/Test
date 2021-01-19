@@ -2,3 +2,4 @@ firstname,lastname,email,git_username,repository_name
 jibran,khan,jibran.khan@ucalgary.ca,jibran6,2021_ENCM369
 Dana,Wood,dana.wood1@ucalgary.ca,dana4bw,2021_ENCM369
 Kushal,Gadhiya,kushal.gadhiya@ucalgary.ca,KushalGadhiya,2021_ENCM369
+Johnson,Xie,johnson.xie@ucalgary.ca,jxie31,2021_ENCM369
