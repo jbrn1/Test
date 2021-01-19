@@ -5,3 +5,4 @@ Kushal,Gadhiya,kushal.gadhiya@ucalgary.ca,KushalGadhiya,2021_ENCM369
 Johnson,Xie,johnson.xie@ucalgary.ca,jxie31,2021_ENCM369
 Tommy,Trang,tommy.trang@ucalgary.ca,ttrang311,2021_ENCM369
 Andrine,Buiza,andrine.buiza1@ucalgary.ca,kuutings,2021_ENCM369
+Syeda, Islam, syeda.islam@ucalgary.ca, syedaislam7933, 2021_ENCM369
