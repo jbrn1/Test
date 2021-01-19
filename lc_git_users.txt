@@ -1,0 +1,2 @@
+firstname,lastname,email,git_username,repository_name
+jibran,khan,jibran.khan@ucalgary.ca,jibran6,2021_ENCM369
